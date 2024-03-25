@@ -23,6 +23,5 @@ def main():
     table_source = pasa.parsing(page_source)
 
 
-
 if __name__ == "__main__":
     main()
